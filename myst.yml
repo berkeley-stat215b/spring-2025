@@ -1,10 +1,10 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'Dept 999'
-  description: 'Test Class Website Based On Myst'
+  title: 'Stat 215b'
+  description: 'Statistical Models: Theory and Application'
   keywords: []
-  authors: ['Instructor Name']
+  authors: ['Jon Mcauliffe']
   license:
     # code: MIT
     content: CC-BY-4.0
@@ -24,16 +24,14 @@ project:
     - schedule.mjs
 site:
   template: book-theme
-  title: 'Dept 999'
+  title: 'Stat 215b'
   options:
     logo: 'stat_bear.png'
   nav: []
-  actions:
-    - title: Ed
-      url: https://edstem.org
-    - title: DataHub
-      url: https://datahub.berkeley.edu
-    - title: Gradescope
-      url: https://www.gradescope.com/courses/564792
+  #actions:
+  #  - title: Ed
+  #    url: https://edstem.org
+  #  - title: DataHub
+  #    url: https://datahub.berkeley.edu
   domains:
-    - berkeley-cdss.github.io
+    - berkeley-stat215b.github.io

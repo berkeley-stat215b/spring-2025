@@ -1,6 +1,6 @@
 ---
-title: 'Dept 999: Generic Description'
-subtitle: 'UC Berkeley, Spring 2024'
+title: 'Stat 215b: Statistical Models: Theory and Application'
+subtitle: 'UC Berkeley, Spring 2025'
 ---
 
 <!--div class="staffer">
@@ -18,14 +18,14 @@ subtitle: 'UC Berkeley, Spring 2024'
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Instructor Name**
+:header: **Jon Mcauliffe**
 
 ![Instructor Name](images/firefly-instructor.jpg)
 
 +++
 
 * **Office Hours**: Tue 11-12pm (Evans 4019)
-* **Pronouns**: She/Her
+* **Pronouns**: He/Him
 * [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
 :::
 
