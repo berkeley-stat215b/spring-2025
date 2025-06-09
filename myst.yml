@@ -27,6 +27,7 @@ site:
   title: 'Stat 215b'
   options:
     logo: 'stat_bear.png'
+    analytics_google: 'G-CJD976PE08'
   nav: []
   #actions:
   #  - title: Ed
